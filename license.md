@@ -133,4 +133,4 @@ free patreon viewer 是每月数百万人使用的热门工具。当前版本比
 | A setup question | Read the Quick Start above |
 | A feature request | Open an issue with the `enhancement` label |
 
-<p align="center"><sub>magnetic-topaz-915 · 更新于 2026-10-10 · 基于 MIT 许可证共享</sub></p>
+<p align="center"><sub>magnetic-topaz-915 · 更新于 2026-10-11 · 基于 MIT 许可证共享</sub></p>
